@@ -4,7 +4,7 @@ import {
   View
 } from 'react-native';
 
-
+//
 import Splash from './splash';
 import Board from './board';
 
